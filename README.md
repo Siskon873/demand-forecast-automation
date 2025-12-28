@@ -91,7 +91,7 @@ MIT License - see [LICENSE](LICENSE)
 
 **Ayushman Karana**
 - SCM Analyst at GS Caltex India
-- LinkedIn: Your LinkedIn URL]](https://www.linkedin.com/in/ayushman-karan-1b563a1ba/)
+- LinkedIn: (https://www.linkedin.com/in/ayushman-karan-1b563a1ba/)
 - Email: Ayushmankaran873@gmail.com
 
 ## 🙏 Acknowledgments
