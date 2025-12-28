@@ -1,3 +1,4 @@
+
 # 📊 Demand Forecast Distribution Automation
 
 > Excel VBA automation reducing report generation from 3 hours to 30 seconds
@@ -6,12 +7,14 @@
 [![Time Saved](https://img.shields.io/badge/Time%20Saved-99%25-brightgreen)]()
 [![Excel VBA](https://img.shields.io/badge/Excel-VBA-green?logo=microsoft-excel)]()
 
-## 🎯 Problem Statement
+---
 
+## 🎯 Problem Statement
 Operations team spent 2-3 hours monthly creating zone-specific demand forecast reports manually, resulting in high error rates and delayed decision-making.
 
-## ✨ Solution
+---
 
+## ✨ Solution
 Intelligent VBA automation system that:
 - ✅ Auto-detects files and configurations
 - ✅ Intelligently matches city names (fuzzy logic)
@@ -20,16 +23,18 @@ Intelligent VBA automation system that:
 - ✅ Distributes via email to stakeholders
 - ✅ Creates comprehensive audit logs
 
-## 📈 Business Impact
+---
 
+## 📈 Business Impact
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
 | Time | 180 min | 30 sec | **99% ⬇** |
 | Errors | 5-10/month | ~0 | **100% ⬇** |
 | Monthly Value | - | $2,000+ | **ROI: 200%+** |
 
-## 🚀 Quick Start
+---
 
+## 🚀 Quick Start
 1. Download the code
 2. Open your Excel file
 3. Press Alt + F11
@@ -37,65 +42,81 @@ Intelligent VBA automation system that:
 5. Run `RunAutomation`
 6. Done! ✅
 
-[Full Installation Guide](Docs/Installation_Guide.md)
+Docs/Installation_Guide.md
+
+---
 
 ## 📸 Screenshots
 
-### Before Automation
-![Before](Screenshots/before-process.png)
+### 1. Manual File Generation (Before Automation)
+![Manual File Generation](Screenshots/Manual%20file%20Generate.png)
 
-### After Automation  
-![After](screenshots/automation-button.png)
+### 2. Automation Category-wise Processing
+![Automation Category-wise](Screenshots/Automation%20Category%20wise.png)
 
-### Results
-![Results](screenshots/summary-report.png)
+### 3. Auto Email Drafting
+![Auto Email Drafting](Screenshots/Auto%20Email%20Drafting.png)
+
+### 4. Files Generated Through VBA (30 Sec)
+![Files Generated](Screenshots/File%20generated%20though%20VBA%20(30%20Sec).png)
+
+### 5. Report Generated Successfully
+![Report Generated](Screenshots/Report%20Generated%20Sucessfully.png)
+
+---
 
 ## 🛠️ Technical Stack
-
 - **Language:** Excel VBA
 - **Integration:** Outlook COM Automation
 - **Data Structures:** Dictionary Objects
 - **File Operations:** FileSystemObject API
 - **Performance:** <30 seconds for 10 zones
 
-## 📖 Documentation
+---
 
+## 📖 Documentation
 - [Installation Guide](Docs/Installation_Guide.md)
 - [User Manual](Docs/User_Guide.md)
 - [Technical Architecture](Docs/Technical_Architecture.md)
-- [API Reference](Docs/API_Reference.md)
+- Docs/API_Reference.md
+
+---
 
 ## 🎓 Key Learnings
-
 1. **Right Tool for Context**: VBA perfect for Excel users, no installation needed
 2. **Fuzzy Matching Essential**: Real-world data has variations
 3. **Logging is Critical**: Debugging impossible without detailed logs
 4. **User Feedback Matters**: Involved users early, incorporated suggestions
 
-## 🔮 Future Enhancements
+---
 
+## 🔮 Future Enhancements
 - [ ] Power BI dashboard integration
 - [ ] Scheduled execution (Windows Task Scheduler)
 - [ ] Web-based interface
 - [ ] Machine learning for forecasting
 
-## 🤝 Contributing
+---
 
+## 🤝 Contributing
 Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## 📄 License
+---
 
-MIT License - see [LICENSE](LICENSE)
+## 📄 License
+MIT License - see LICENSE
+
+---
 
 ## 👤 Author
-
 **Ayushman Karana**
 - SCM Analyst at GS Caltex India
-- LinkedIn: (https://www.linkedin.com/in/ayushman-karan-1b563a1ba/)
+- LinkedIn: [Connect Here](https://www.linkedin.com/in/ayushman-karan-1b563a1ba/)
 - Email: Ayushmankaran873@gmail.com
 
-## 🙏 Acknowledgments
+---
 
+## 🙏 Acknowledgments
 - Operations team for requirements and testing
 - Management for supporting automation initiatives
 
