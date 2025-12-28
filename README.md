@@ -76,7 +76,7 @@ Docs/Installation_Guide.md
 ---
 
 ## 📖 Documentation
-- [Installation Guide](Docs/Installation_Guide.md)
+- [Installation Guide](Docs/Installation_Guide.txt)
 - [User Manual](Docs/User_Guide.md)
 - [Technical Architecture](Docs/Technical_Architecture.md)
 - Docs/API_Reference.md
