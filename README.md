@@ -37,12 +37,12 @@ Intelligent VBA automation system that:
 5. Run `RunAutomation`
 6. Done! ✅
 
-[Full Installation Guide](docs/Installation_Guide.md)
+[Full Installation Guide](Docs/Installation_Guide.md)
 
 ## 📸 Screenshots
 
 ### Before Automation
-![Before](screenshots/before-process.png)
+![Before](Screenshots/before-process.png)
 
 ### After Automation  
 ![After](screenshots/automation-button.png)
@@ -60,10 +60,10 @@ Intelligent VBA automation system that:
 
 ## 📖 Documentation
 
-- [Installation Guide](docs/Installation_Guide.md)
-- [User Manual](docs/User_Guide.md)
-- [Technical Architecture](docs/Technical_Architecture.md)
-- [API Reference](docs/API_Reference.md)
+- [Installation Guide](Docs/Installation_Guide.md)
+- [User Manual](Docs/User_Guide.md)
+- [Technical Architecture](Docs/Technical_Architecture.md)
+- [API Reference](Docs/API_Reference.md)
 
 ## 🎓 Key Learnings
 
