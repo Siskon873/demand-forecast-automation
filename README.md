@@ -49,19 +49,20 @@ Docs/Installation_Guide.md
 ## 📸 Screenshots
 
 ### 1. Manual File Generation (Before Automation)
-![Manual File Generation](Screenshots/Manual%20file%20Generate.png)
+![Manual File Generation](Screenshots/Manual_File_Generate.png)
 
 ### 2. Automation Category-wise Processing
-![Automation Category-wise](Screenshots/Automation%20Category%20wise.png)
+![Automation Category-wise](Screenshots/Automation_Category_Wise.png)
 
 ### 3. Auto Email Drafting
-![Auto Email Drafting](Screenshots/Auto%20Email%20Drafting.png)
+![Auto Email Drafting](Screenshots/Auto_Email_Drafting.png)
 
 ### 4. Files Generated Through VBA (30 Sec)
-![Files Generated](Screenshots/File%20generated%20though%20VBA%20(30%20Sec).png)
+![Files Generated VBA](Screenshots/File_Generated_VBA.png)
 
 ### 5. Report Generated Successfully
-![Report Generated](Screenshots/Report%20Generated%20Sucessfully.png)
+![Report Generated Successfully](Screenshots/Report_Generated_Successfully.png)
+
 
 ---
 
