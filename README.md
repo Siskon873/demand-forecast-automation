@@ -90,9 +90,9 @@ MIT License - see [LICENSE](LICENSE)
 ## 👤 Author
 
 **Ayushman Karana**
-- Operations Analyst at GS Caltex India
-- LinkedIn: [Your LinkedIn URL]
-- Email: your.email@example.com
+- SCM Analyst at GS Caltex India
+- LinkedIn: Your LinkedIn URL]](https://www.linkedin.com/in/ayushman-karan-1b563a1ba/)
+- Email: Ayushmankaran873@gmail.com
 
 ## 🙏 Acknowledgments
 
